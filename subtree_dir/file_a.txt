@@ -2,4 +2,4 @@ This file is in `subtree_example_child`.
 
 This is an update done from `subtree_example_parent`.
 
-Another update from `subtree_example_parent`.
+Merge conflict! Another update from `subtree_example_parent`.
